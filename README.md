@@ -52,6 +52,8 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 <h3>📖Studying at moment:</h3>
 
 ![Python](https://img.shields.io/badge/-python-0d1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=for-the-badge&logo=jupyter&labelColor=0d1117)
+![GoogleColab](https://img.shields.io/badge/-Google_Colaboratory-0d1117?style=for-the-badge&logo=googlecolab&labelColor=0d1117)
 
 <!-- Frameworks -->
 <hr/>
