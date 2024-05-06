@@ -46,7 +46,7 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&labelColor=0d1117&textColor=0d1117)
 ![C#](https://img.shields.io/badge/-cSharp-0d1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/-mysql-0d1117?style=for-the-badge&logo=mysql&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/-sql-0d1117?style=for-the-badge&logo=sql&labelColor=0d1117)
 
 <!-- Studying -->
 <h3>📖Studying at moment:</h3>
@@ -70,6 +70,9 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&labelColor=0d1117)
 ![Figma](https://img.shields.io/badge/-figma-0d1117?style=for-the-badge&logo=figma&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/-mysql-0d1117?style=for-the-badge&logo=mysql&labelColor=0d1117)
+![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=for-the-badge&logo=sqlite&labelColor=0d1117)
+![PowerBI](https://img.shields.io/badge/-PowerBI-0d1117?style=for-the-badge&logo=powerbi&labelColor=0d1117)
 ![Windows](https://img.shields.io/badge/-Windows-0d1117?style=for-the-badge&logo=windows&labelColor=0d1117)
 ![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0d1117?style=for-the-badge&logo=microsoft-office&labelColor=0d1117)
 
