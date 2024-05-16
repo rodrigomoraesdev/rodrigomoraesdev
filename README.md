@@ -78,7 +78,7 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 
 <!-- GithubStats -->
 <hr/>
-<h3 align="center">⚡Stats:</h3>
+<h3 align="center">⚡Stats</h3>
 
 <div align="center">
 
@@ -91,7 +91,7 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 
 <hr/>
 <!-- Credits -->
-<div align="right">Made with by <a href="https://github.com/rodrigomoraesdev">👨🏻‍💻 Rodrigo Moraes</a>.</div>
+<div align="right">Made with by<a href="https://github.com/rodrigomoraesdev">👨🏻‍💻 Rodrigo Moraes</a>.</div>
 <details align="left">
   <summary>Credits</summary> 
   - Banner by <a href="https://github.com/kyechan99/capsule-render">kyechan99</a><br>
