@@ -77,14 +77,7 @@ I firmly believe that continuous education and curiosity are fundamental to succ
 ![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0d1117?style=for-the-badge&logo=microsoft-office&labelColor=0d1117)
 
 <!-- GithubStats -->
-<hr/>
-<h3 align="center">⚡Stats</h3>
 
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigomoraesdev&bg_color=0d1117&color=ffffff&line=ffffff&point=007fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigomoraesdev&theme=dark&hide_border=true&card_width=900&background=0d1117&fire=007FFF&ring=007FFF&currStreakLabel=007FFF&currStreakNum=007FFF)](https://git.io/streak-stats)
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigomoraesdev&layout=compact&hide_border=true&title_color=007FFF&text_color=ffffff&bg_color=0d1117&hide_title=true&hide=stars,issues,contribs" alt="Github Stats"/>
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoraesdev&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Github Stats Languages"/>
 
 </div>
