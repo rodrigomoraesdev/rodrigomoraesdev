@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:007fff,100:ffffff&reversal=false&textBg=false&fontAlignY=7&descAlign=50"/>
 
 <h4 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=007fff&duration=4000&lines=Hi+There!+👋🏻;+I'm+Rodrigo+Moraes;+I'm+28+years+old;+I'm+a+developer;Welcome!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=007fff&duration=4000&lines=Hi+There!+👋🏻;+I'm+Rodrigo+Moraes;+I'm+29+years+old;+I'm+a+developer;Welcome!" />
 </h4>
 </div>
 <br/>
